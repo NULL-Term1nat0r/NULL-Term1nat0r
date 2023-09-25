@@ -1,6 +1,6 @@
 **`Software Engineering Student`**
 
-I am a software engineer student at 43Wolfsburg
+I am a software engineer student at [42Wolfsburg]([URL](https://42wolfsburg.de/))
 
 In this profile you can find my projects from:
   * 42 Wolfsburg Software Engineering School and other side projects
