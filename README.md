@@ -1,7 +1,7 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NULL-Term1nat0r&theme=merko&mode=weekly&card_width=400)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NULL-Term1nat0r&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NULL-Term1nat0r&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ![NULL-Term1nat0r's Stats](https://github-readme-stats.vercel.app/api?username=NULL-Term1nat0r&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
