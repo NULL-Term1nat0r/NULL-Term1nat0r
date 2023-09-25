@@ -55,7 +55,7 @@ In this profile you can find my projects from:
 A small lists of the best projects I've coded so far:
 | Project | Language | Summary |
 |:-------:|:----:|:-------------:|
-| [fdf](https://github.com/NULL-Term1nat0r/FdF) | [image(https://img.shields.io/badge/C-00599C?style=for-thebadge&logo=c&logoColor=white) | Creating a visualization tool for point maps using the mlx library | 
+| [fdf](https://github.com/NULL-Term1nat0r/FdF) | ![image](https://img.shields.io/badge/C-00599C?style=for-thebadge&logo=c&logoColor=white) | Creating a visualization tool for point maps using the mlx library | 
 
 
 <!--
