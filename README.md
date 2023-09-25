@@ -1,3 +1,10 @@
+´´´bash
+//  .-.-.-..-..-.   .-.   .-.,-..----..-.-.-..-.-.-..---..-..-.
+//  | | | || || |__ | |__ | . < | || || | | || | | || |- | .` |
+//  `-----'`-'`----'`----'`-'`-'`----'`-'-'-'`-'-'-'`---'`-'`-'
+//                                                             
+´´´
+
 **Software Engineering Student**
 
 I am a software engineering student at [42Wolfsburg](https://42wolfsburg.de).
