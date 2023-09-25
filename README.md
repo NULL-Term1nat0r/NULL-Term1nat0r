@@ -53,6 +53,8 @@ A small lists of the best projects I've coded so far:
 | [philosophers](https://github.com/NULL-Term1nat0r/Philosohpers.git) | ![image](https://img.shields.io/badge/C-00599C?style=for-thebadge&logo=c&logoColor=white) | Solving Project about solving the Philosopher-Problem with the help of threads and mutexes | 
 | [miniRT](https://github.com/NULL-Term1nat0r/miniRT.git) | ![image](https://img.shields.io/badge/C-00599C?style=for-thebadge&logo=c&logoColor=white) | Creating my our own Raytracer from scratch with  mlx library in colloboration with [cschm1ed](https://github.com/cschm1ed) | 
 
+<img width="1220" alt="Screen Shot 2023-09-25 at 5 30 55 PM" src="https://github.com/NULL-Term1nat0r/NULL-Term1nat0r/assets/109620716/7e4be05c-692d-4238-bef0-c11d9d3a76cc">
+
 
 
 
