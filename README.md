@@ -32,7 +32,6 @@ In this profile you can find my projects from:
 
 </div>
 
-### :fire: My Stats :
 
 
 
