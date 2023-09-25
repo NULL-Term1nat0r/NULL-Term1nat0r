@@ -6,9 +6,20 @@ In this profile you can find my projects from:
   * 42 Wolfsburg Software Engineering School and other side projects
 
 ### :fire: My Stats :
-
+<!--
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NULL-Term1nat0r&theme=merko&mode=weekly&card_width=400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NULL-Term1nat0r&layout=compact&theme=vision-friendly-dark)
+-->
+<table>
+  <tr>
+    <td>
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=NULL-Term1nat0r&theme=merko&mode=weekly&card_width=400" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NULL-Term1nat0r&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 <!--
 ![NULL-Term1nat0r's Stats](https://github-readme-stats.vercel.app/api?username=NULL-Term1nat0r&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
