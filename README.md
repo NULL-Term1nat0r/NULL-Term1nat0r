@@ -56,6 +56,10 @@ A small lists of the best projects I've coded so far:
 | Project | Language | Summary |
 |:-------:|:----:|:-------------:|
 | [fdf](https://github.com/NULL-Term1nat0r/FdF) | ![image](https://img.shields.io/badge/C-00599C?style=for-thebadge&logo=c&logoColor=white) | Creating a visualization tool for point maps using the mlx library | 
+| [philosophers](https://github.com/NULL-Term1nat0r/Philosohpers.git) | ![image](https://img.shields.io/badge/C-00599C?style=for-thebadge&logo=c&logoColor=white) | Solving Project about solving the Philosopher-Problem with the help of threads and mutexes | 
+| [miniRT](https://github.com/NULL-Term1nat0r/miniRT.git) | ![image](https://img.shields.io/badge/C-00599C?style=for-thebadge&logo=c&logoColor=white) | Creating my our own Raytracer with  mlx library in colloboration with [Christian Schmiedt](https://github.com/cschm1ed) | 
+
+
 
 
 <!--
