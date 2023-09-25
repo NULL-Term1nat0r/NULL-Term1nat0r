@@ -1,3 +1,8 @@
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NULL-Term1nat0r&theme=dark&card_width=495)](https://git.io/streak-stats)
+
+
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -10,7 +15,6 @@
 
 </div>
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NULL-Term1nat0r&theme=dark&card_width=495)](https://git.io/streak-stats)
 
 
 
