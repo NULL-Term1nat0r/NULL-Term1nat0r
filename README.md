@@ -1,4 +1,4 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NULL-Term1nat0r&theme=dark&card_width=495)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NULL-Term1nat0r&theme=shadow-green&mode=weekly&card_width=496)](https://git.io/streak-stats)
 
 
 
